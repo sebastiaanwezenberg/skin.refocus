@@ -44,8 +44,8 @@ msgid "Watchlist"
 msgstr "Te kijken"
 
 msgctxt "#31014"
-msgid "Live TV"
-msgstr "Live-TV"
+msgid "TV & Radio"
+msgstr "TV-Radio"
 
 msgctxt "#31015"
 msgid "Trailers"

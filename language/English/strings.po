@@ -43,7 +43,7 @@ msgid "Watchlist"
 msgstr ""
 
 msgctxt "#31014"
-msgid "Live TV"
+msgid "TV & Radio"
 msgstr ""
 
 msgctxt "#31015"
