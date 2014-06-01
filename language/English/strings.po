@@ -667,3 +667,7 @@ msgstr ""
 msgctxt "#31717"
 msgid "Finishing up"
 msgstr ""
+
+msgctxt "#90000"
+msgid "Uitzending gemist"
+msgstr ""

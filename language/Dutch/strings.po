@@ -651,3 +651,7 @@ msgstr "Dit zal alle skin instellingen wissen. Dit kan niet ongedaan gemaakt wor
 msgctxt "#31717"
 msgid "Finishing up"
 msgstr "Afronden"
+
+msgctxt "#90000"
+msgid "Uitzending gemist"
+msgstr ""

@@ -607,6 +607,13 @@
 							<selected>Skin.HasSetting(tvmenu.timers)</selected>
 							<include>dialog_Radio-alt</include>
 						</control>
+						<control type="radiobutton" id="405">
+							<label>$LOCALIZE[90000]</label>
+							<width>484</width>
+							<onclick>Skin.ToggleSetting(tvmenu.uitzendinggemist)</onclick>
+							<selected>Skin.HasSetting(tvmenu.uitzendinggemist)</selected>
+							<include>dialog_Radio-alt</include>
+						</control>
 					</control>
 
 				<!--music submenu-->
