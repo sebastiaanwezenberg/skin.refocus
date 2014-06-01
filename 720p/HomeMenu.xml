@@ -477,7 +477,7 @@
 					</control>
 					<control type="button" id="406">
 						<label>$LOCALIZE[90000]</label>
-						<onclick>ActivateWindowAndFocus(MyPVR, 35,0, 14,0)</onclick>
+						<onclick>ActivateWindowAndFocus(MyPVR, 37,0, 14,0)</onclick>
 						<onleft>400</onleft>
 						<onback>400</onback>
 						<include>home_SubMenuButton</include>

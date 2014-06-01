@@ -29,6 +29,7 @@
 			<include>view_TV-timers</include>
 			<include>view_TV-search</include>
 			<include>view_TV-recordings</include>
+			<include>view_TV-uitzendinggemist</include>
 		</control>
 
 	<!--EPG INFO-->

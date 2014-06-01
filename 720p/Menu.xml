@@ -690,6 +690,12 @@
 					<label>$LOCALIZE[19040]</label>
 					<include>menu_Button</include>
 				</control>
+				<!--uitzending gemist-->
+				<control type="button" id="37">
+					<onback>PreviousMenu</onback>
+					<label>$LOCALIZE[90000]</label>
+					<include>menu_Button</include>
+				</control>
 				<!--search-->
 				<control type="button" id="36">
 					<onback>PreviousMenu</onback>
