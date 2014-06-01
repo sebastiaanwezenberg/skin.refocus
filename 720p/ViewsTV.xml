@@ -981,25 +981,25 @@
 				<control type="label">
 					<left>15</left>
 					<width>200</width>
-					<label>$LOCALIZE[90000]</label>
+					<label>$LOCALIZE[555]</label>
 					<include>column_Header</include>
 				</control>
 				<!--title-->
 				<control type="label">
 					<left>137</left>
 					<width>250</width>
-					<label>$LOCALIZE[90000]</label>
+					<label>$LOCALIZE[369]</label>
 					<include>column_Header</include>
 				</control>
 				<!--date-->
 				<control type="label">
 					<left>954</left>
 					<width>690</width>
-					<label>$LOCALIZE[90000]</label>
+					<label>$LOCALIZE[552]</label>
 					<include>column_Header</include>
 				</control>
 			</control>
-			<control type="list" id="14">
+			<control type="list" id="91">
 				<top>135</top>
 				<width>screen_Width</width>
 				<height>440</height>
