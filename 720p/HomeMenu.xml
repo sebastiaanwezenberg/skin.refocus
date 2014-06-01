@@ -475,7 +475,15 @@
 						<include>home_SubMenuButton</include>
 						<visible>Skin.HasSetting(tvmenu.timers) + [Control.HasFocus(4444) | Control.HasFocus(405) | Skin.String(HomeSub,$LOCALIZE[31113])]</visible>
 					</control>
-
+					<control type="button" id="406">
+						<label>$LOCALIZE[90001]</label>
+						<onclick>ActivateWindowAndFocus(MyPVR, 35,0, 14,0)</onclick>
+						<onleft>400</onleft>
+						<onback>400</onback>
+						<include>home_SubMenuButton</include>
+						<visible>Skin.HasSetting(tvmenu.uitzendinggemist) + [Control.HasFocus(4444) | Control.HasFocus(406) | Skin.String(HomeSub,$LOCALIZE[31113])]</visible>
+					</control>
+					
 				<!--MUSIC-->
 					<!--submenu items disabled-->
 					<control type="button" id="500">
